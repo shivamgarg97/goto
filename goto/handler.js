@@ -16,5 +16,5 @@ module.exports = (event, context) => {
     //     .status(302)
     //     .headers({"location": redirect})
     //     .succeed();
-    console.log("hello goto")
+    console.log("hello shivam")
 }
